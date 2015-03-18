@@ -1,5 +1,4 @@
 
-
 APP连接接口：
 示例：
 http://{host}/app/appConnection.html?param=6ccda68f6a764ade339e3f980c1a6d9aa8068580d107868c
@@ -30,4 +29,6 @@ http://{host}/app/appPay.html?param=6ccda68f6a764ade339e3f980c1a6d9aa8068580d107
 	channel: 渠道号
 	version: 游戏APP版本号
 	fee : 支付金额
+	
+App更新版本接口
     
